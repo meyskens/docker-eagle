@@ -15,4 +15,6 @@ RUN wget http://trial2.autodesk.com/NET17SWDLD/2017/EGLPRM/ESD/Autodesk_EAGLE_${
 
 USER user
 
+ENV LIBGL_ALWAYS_SOFTWARE=1
+
 CMD /eagle-${version}/eagle
