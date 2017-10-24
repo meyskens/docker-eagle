@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="41px" height="40px" viewBox="0 0 41 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Download</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-167.000000, -99.000000)" fill="#3C3C3C">
+            <g transform="translate(167.914062, 99.000000)">
+                <g transform="translate(20.000000, 20.000000) scale(1, -1) rotate(270.000000) translate(-20.000000, -20.000000) translate(6.000000, 6.000000)">
+                    <g transform="translate(0.500000, -0.000000)">
+                        <g transform="translate(-0.000000, 5.000000)">
+                            <path d="M18.6573591,9.74500567 C19.1129185,9.32061714 19.1180953,8.60381456 18.6495939,8.18718924 L10.8714341,0.480914562 C10.1958602,-0.210010669 8.99483987,0.29718538 9.00001668,1.28570013 L9.07508045,16.7681183 C9.08543408,17.7126416 10.2890428,18.2017235 10.9568515,17.5185615 L18.6573591,9.74500567 Z"></path>
+                            <rect x="-2.66453526e-15" y="6.5" width="16" height="5"></rect>
+                        </g>
+                        <rect transform="translate(23.555000, 14.000000) rotate(90.000000) translate(-23.555000, -14.000000) " x="10.4424515" y="11" width="26.2250977" height="6" rx="1"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

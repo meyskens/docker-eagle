@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="38px" height="36px" viewBox="0 0 38 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.1 (44463) - http://www.bohemiancoding.com/sketch -->
+    <title>slide-left1</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 40 40 40 40 0 0 0"></polygon>
+    </defs>
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-81.000000, -425.000000)">
+            <g transform="translate(79.636719, 423.000000)">
+                <g>
+                    <g transform="translate(20.000000, 20.000000) scale(1, -1) translate(-20.000000, -20.000000) ">
+                        <g>
+                            <g>
+                                <mask id="mask-2" fill="white">
+                                    <use xlink:href="#path-1"></use>
+                                </mask>
+                                <g></g>
+                                <g mask="url(#mask-2)">
+                                    <g transform="translate(2.000000, 12.000000)">
+                                        <path d="M4.73396509,11.7096477 L10.9364651,5.54089766 C11.4827151,4.98964766 11.0764651,4.01464766 10.3139651,4.01464766 L6.21771509,4.01464766 L2.00896509,4.01464766 L-2.07728491,4.01464766 C-2.83478491,4.01464766 -3.24228491,4.98589766 -2.70228491,5.54089766 L3.48271509,11.7096477 C3.84521509,12.0896477 4.39521509,12.0646477 4.73396509,11.7096477 C4.73396509,11.7096477 4.39521509,12.0646477 4.73396509,11.7096477" fill="#444443" transform="translate(4.119291, 8.000000) rotate(90.000000) translate(-4.119291, -8.000000) "></path>
+                                        <rect fill="#3C3C3C" x="5.14215854" y="5.66992188" width="7.97070467" height="5"></rect>
+                                    </g>
+                                </g>
+                                <g mask="url(#mask-2)">
+                                    <g transform="translate(16.000000, 2.500000)">
+                                        <g>
+                                            <path d="M0,35 L10,0" stroke="#8A8A89" stroke-width="3.75" fill="#AEAAAA"></path>
+                                        </g>
+                                        <g transform="translate(8.000000, 27.500000)">
+                                            <path d="M0,0 L15,0" stroke="#444443" stroke-width="3.75"></path>
+                                        </g>
+                                        <g transform="translate(10.500000, 17.500000)">
+                                            <path d="M0,0 L12.5,0" stroke="#444443" stroke-width="3.75"></path>
+                                        </g>
+                                        <g transform="translate(13.000000, 7.500000)">
+                                            <path d="M0,0 L10,0" stroke="#444443" stroke-width="3.75"></path>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

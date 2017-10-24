@@ -1,0 +1,17 @@
+-- Linux Graphics Driver Issues
+Nouveau (Open Source driver for nVidia cards) may cause sporadic crashes during the login procedure.
+Enable software rendering in libGL by setting LIBGL_ALWAYS_SOFTWARE to 1.
+export LIBGL_ALWAYS_SOFTWARE=1
+./eagle
+
+-- OpenSUSE/SUSE Linux
+We are aware of a sporadic issue with OpenSSL on OpenSUSE/SUSE Linux.
+If you encounter a segmentation fault when starting EAGLE (./eagle), please try running the following commands in a terminal in the EAGLE directory:
+
+sudo zypper install libopenssl-devel
+cp /lib64/libssl.so.1.0.0 lib/libssl.so.1.0.0
+cp /lib64/libcrypto.so.1.0.0 lib/libcrypto.so.1.0.0
+
+-- OpenSUSE/SUSE Linux
+If you encounter a 'Check failed: base::i18n::InitializeICU() error when launching EAGLE, please try copying the icudtl.dat file from the libexec directory to the EAGLE directory:
+cp libexec/icudtl.dat .
