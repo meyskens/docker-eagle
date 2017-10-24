@@ -1,6 +1,6 @@
 FROM meyskens/desktop-base
 
-ENV version=8.4.0
+ENV version==8.3.2
 
 RUN apt-get update && apt-get install -y locales 
 
